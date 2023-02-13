@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/assets/pdf/CV_Vuhuyhoang.pdf": "e24b81bebf3291107ff430af01141097",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "016c62fbfc52acd16d47af682dc2bb8d",
+"assets/NOTICES": "0f6007db813449b32f87aa2d899a35be",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "e430f2f229b1a9126b9b96896408ca3d",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -45,9 +45,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "808aa4e74b491717b25ca35e8fa671dc",
-"/": "808aa4e74b491717b25ca35e8fa671dc",
-"main.dart.js": "4c3d0ed0b19f2ba29bec0cca1897e7c8",
+"index.html": "ec20c83e0affbf80db00973c59858085",
+"/": "ec20c83e0affbf80db00973c59858085",
+"main.dart.js": "484d36aa3bab65cb6b43602a421d123f",
 "manifest.json": "0898e1a0ebb4e54fa60499f524b97931",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };

@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "addf2062c633b119c6500fff7d3ae9e2",
+  "assets/AssetManifest.json": "72243906a003f57a0c72000ecc6edf61",
 "assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5",
 "assets/assets/icons/check.svg": "4220c82511cc1dfb40b8bba7d25c5f55",
 "assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
@@ -17,13 +17,18 @@ const RESOURCES = {
 "assets/assets/images/bg.jpeg": "c6449162dc3940daa640a43101cfd66c",
 "assets/assets/images/chatapp.jpg": "0022efb5018565e28bae18e27f3405ef",
 "assets/assets/images/chatapp2.jpg": "45e00fe51948291be040e8625d507e28",
+"assets/assets/images/chat_background.png": "0bdd550b19406ca218fda7b37b059fce",
 "assets/assets/images/flutter.png": "d744440971931f937269e060e720f5a7",
 "assets/assets/images/movieapp.jpg": "7a7c44dd638255bfca62cddc1cc8cb53",
+"assets/assets/images/movie_background.jpg": "720b5293f9e316f1398fce14e9d0417a",
 "assets/assets/images/techday.jpg": "68b72d88c91ecef74d6e3b39d9c3d6c6",
+"assets/assets/images/techday_background.jpg": "781574f2806ab8e6e2fba0ddfdd983d8",
 "assets/assets/images/vhh.jpg": "c4fbc8235838540c2a282b4d36e7eccd",
 "assets/assets/images/vhh_ava.jpg": "c5e9760114c336f90d1119f69b991d19",
 "assets/assets/images/weather.jpg": "2dd9d0a22ebc15b711691af181f92ba8",
+"assets/assets/images/weather_background.jpg": "587c5471eb188d3cda2179f4b6a496d7",
 "assets/assets/images/xinhxinhlive.jpg": "fce4603f71130ff875fe9a35ab3f4bdd",
+"assets/assets/images/xinhxinh_background.png": "c65095bf4fe5770f8798870880f24f33",
 "assets/assets/pdf/CV_Vuhuyhoang.pdf": "e24b81bebf3291107ff430af01141097",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -40,9 +45,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c01e37371ec2d2d153b69728ff1eada4",
-"/": "c01e37371ec2d2d153b69728ff1eada4",
-"main.dart.js": "59cbe9480373fe19109b1b627580a00c",
+"index.html": "6df8bd0e8d9993a0e7f46aad568ed85f",
+"/": "6df8bd0e8d9993a0e7f46aad568ed85f",
+"main.dart.js": "8219f8d11243e4331723d0aebfcfe7e6",
 "manifest.json": "0898e1a0ebb4e54fa60499f524b97931",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };

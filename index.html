@@ -17,28 +17,24 @@
   <link rel="icon" type="image/png" href="favicon.png"/>
 
   <title>portfolio</title>
+  <title>Hoang Vu's portfolio</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
-    // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '3241296202';
-  </script>
+@ -26,8 +26,11 @@
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
   <style>
+    body {
+      background: rgb(25, 25, 35);
+    }
+
     .loading {
       display: flex;
       justify-content: center;
       align-items: center;
       margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .loader {
+@ -42,40 +45,44 @@
       border: 16px solid #f3f3f3;
       border-radius: 50%;
       border: 15px solid ;
@@ -46,6 +42,10 @@
       border-right: 16px solid white;
       border-bottom: 16px solid blue;
       border-left: 16px solid white;
+      border-top: 16px solid rgb(255, 193, 7);
+      border-right: 16px solid rgba(0, 0, 0, 0);
+      border-bottom: 16px solid rgb(255, 193, 7);
+      border-left: 16px solid rgba(0, 0, 0, 0);
       width: 120px;
       height: 120px;
       -webkit-animation: spin 2s linear infinite;
@@ -74,6 +74,10 @@
 <body>
 <div class="loading">
   <div class="loader"></div>
+  <div>
+    <h4 style="color: white; margin-top: 25px; text-align: center;">Loading Hoang Vu's</h4>
+    <h4 style="color: white; text-align: center;">portfolio page</h4>
+  </div>
 </div>
 <script src="main.dart.js" type="application/javascript"></script>
 </body>

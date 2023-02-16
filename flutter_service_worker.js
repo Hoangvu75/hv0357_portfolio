@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "757bdabf507962f180325bd6c9e6ca2c",
+  "assets/AssetManifest.json": "5e2af806bcc156c71ae42b0849355fed",
 "assets/assets/fonts/SVN-Gilroy-Bold.otf": "83a4e50a248e2b9da6b2e6802834646d",
 "assets/assets/fonts/SVN-Gilroy-Medium.otf": "1ae06bc5340fe8ecc9689f7435f4d57e",
 "assets/assets/fonts/SVN-Gilroy-Regular.otf": "6655e711b71fad445f2fc2e071ea6f5b",
@@ -21,10 +21,6 @@ const RESOURCES = {
 "assets/assets/images/backend_dev.png": "8a797b321f4871a2525279c1ac670891",
 "assets/assets/images/bg.jpeg": "c6449162dc3940daa640a43101cfd66c",
 "assets/assets/images/chat_background.png": "0bdd550b19406ca218fda7b37b059fce",
-"assets/assets/images/CV_Vuhuyhoang-1.png": "d0be28f0051694d84c4fadf18c8d4057",
-"assets/assets/images/CV_Vuhuyhoang-2.png": "ddd3598ede73260373f59dd86f4addaf",
-"assets/assets/images/CV_Vuhuyhoang-3.png": "ae0784cf37826946fa5fcfa16df58e41",
-"assets/assets/images/CV_Vuhuyhoang-4.png": "4e95484ebfc1470d5044c850b34ed354",
 "assets/assets/images/flutter.png": "d744440971931f937269e060e720f5a7",
 "assets/assets/images/mobile_dev.jpg": "708ab73ef4febb38253bd752f49a01ed",
 "assets/assets/images/movie_background.jpg": "720b5293f9e316f1398fce14e9d0417a",
@@ -52,9 +48,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "77c3bfa6f560ba1faecb08a78ef8eaf9",
-"/": "77c3bfa6f560ba1faecb08a78ef8eaf9",
-"main.dart.js": "40cf2c2eca41a83971918be0bf083e28",
+"index.html": "05661609a130a51576dae84a699544b0",
+"/": "05661609a130a51576dae84a699544b0",
+"main.dart.js": "e2da5d29166bf12722a20c1c261e61ca",
 "manifest.json": "0898e1a0ebb4e54fa60499f524b97931",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };

@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5e2af806bcc156c71ae42b0849355fed",
+  "assets/AssetManifest.json": "75ed2ba511223d7d70289e284f8d021b",
 "assets/assets/fonts/SVN-Gilroy-Bold.otf": "83a4e50a248e2b9da6b2e6802834646d",
 "assets/assets/fonts/SVN-Gilroy-Medium.otf": "1ae06bc5340fe8ecc9689f7435f4d57e",
 "assets/assets/fonts/SVN-Gilroy-Regular.otf": "6655e711b71fad445f2fc2e071ea6f5b",
@@ -22,6 +22,7 @@ const RESOURCES = {
 "assets/assets/images/bg.jpeg": "c6449162dc3940daa640a43101cfd66c",
 "assets/assets/images/chat_background.png": "0bdd550b19406ca218fda7b37b059fce",
 "assets/assets/images/flutter.png": "d744440971931f937269e060e720f5a7",
+"assets/assets/images/hoangvu_techblog_background.png": "54e7428919f3e99348c85a01f937e0b2",
 "assets/assets/images/mobile_dev.jpg": "708ab73ef4febb38253bd752f49a01ed",
 "assets/assets/images/movie_background.jpg": "720b5293f9e316f1398fce14e9d0417a",
 "assets/assets/images/social_network_background.jpg": "bb0f0dc6374c0189a2d8b307e682a72a",
@@ -48,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "95ec8d3fb742ed0462fa9bfb031c47a0",
-"/": "95ec8d3fb742ed0462fa9bfb031c47a0",
-"main.dart.js": "39c300405099d31b8ea685a190fd53b0",
+"index.html": "2d7cfe4aa4f38627db747d090812371e",
+"/": "2d7cfe4aa4f38627db747d090812371e",
+"main.dart.js": "3d802706fc7c18a5f914f3d3d449d0d8",
 "manifest.json": "0898e1a0ebb4e54fa60499f524b97931",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };

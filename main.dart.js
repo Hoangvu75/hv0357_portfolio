@@ -64818,7 +64818,7 @@ l=t.z
 p=A.azO(A.b4(["Access-Control-Allow-Origin","*","Access-Control-Allow-Method","POST, GET, OPTIONS, DELETE"],t.N,l))
 p.a="GET"
 s=2
-return A.a8(m.A9(0,"https://hv0357-portfolio-server.fly.dev/get-most-used-language",null,null,null,p,null,l),$async$pv)
+return A.a8(m.A9(0,"https://nodejshv0357portfolioserver-production.up.railway.app/get-most-used-language",null,null,null,p,null,l),$async$pv)
 case 2:o=c
 for(n=0;n<J.bQ(J.ba(o.a,"langList"));++n){new A.afq(a,o,n).$0()
 q.c.is()}return A.a0(null,r)}})

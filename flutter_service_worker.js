@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e80d239de0c15d66a20ee53ce667972c",
+  "assets/AssetManifest.json": "99b6d4c040086be6487876004369e0dc",
 "assets/assets/fonts/SVN-Gilroy-Bold.otf": "83a4e50a248e2b9da6b2e6802834646d",
 "assets/assets/fonts/SVN-Gilroy-Medium.otf": "1ae06bc5340fe8ecc9689f7435f4d57e",
 "assets/assets/fonts/SVN-Gilroy-Regular.otf": "6655e711b71fad445f2fc2e071ea6f5b",
@@ -26,10 +26,10 @@ const RESOURCES = {
 "assets/assets/images/dart_logo.png": "a675cb93b75d5f1656c920dceecdcb38",
 "assets/assets/images/flutter.png": "d744440971931f937269e060e720f5a7",
 "assets/assets/images/flutter_label.jpg": "e6d4e8ad4b921afcf80cd2515852505b",
-"assets/assets/images/hoangvu_techblog_background.png": "54e7428919f3e99348c85a01f937e0b2",
 "assets/assets/images/java_logo.png": "578630e16a651d39d5788e0509c498d3",
 "assets/assets/images/js_logo.png": "f00708cb380288f97a3fbfa72862ce1b",
 "assets/assets/images/kotlin_logo.png": "2cf9a4b79c73281bfa2bd18d4c590f0b",
+"assets/assets/images/ln_background.jpg": "fdf7e51f3fc2c01ddfe10d6897d58516",
 "assets/assets/images/mobile_dev.jpg": "708ab73ef4febb38253bd752f49a01ed",
 "assets/assets/images/movie_background.jpg": "720b5293f9e316f1398fce14e9d0417a",
 "assets/assets/images/nodejs_label.png": "75ff9fc7267035db276f1c373f96df4e",
@@ -63,9 +63,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "92fdcdfeb55b2a45e24bc489e7375b50",
-"/": "92fdcdfeb55b2a45e24bc489e7375b50",
-"main.dart.js": "910b7811b2c3e74c19a44522c1c7803b",
+"index.html": "0aee8b01ff190822cd3964f62fab1ec2",
+"/": "0aee8b01ff190822cd3964f62fab1ec2",
+"main.dart.js": "94b719981d105d41aec38595b5e31fbb",
 "manifest.json": "0898e1a0ebb4e54fa60499f524b97931",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
